@@ -1,2 +1,2 @@
-# Kjrin710 BLOG
-HI, welcome to my blog, I wrote something on this blog. 
+# Kjrin710
+HI, I wrote something on this page. 
